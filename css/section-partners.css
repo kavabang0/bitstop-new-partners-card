@@ -1,0 +1,209 @@
+.partners .item.special {
+    padding: 22px 17px 33px 30px;
+}
+
+.partners .item .city {
+    position: relative;
+    font-size: 13px;
+    line-height: 14px;
+    font-weight: 400;
+    color: #a8b1b7;
+    letter-spacing: -0.01em;
+    max-width: 130px;
+    padding-left: 18px;
+    padding-top: 0px !important;
+}
+
+.partners .item .city svg {
+    position: absolute;
+    left: 0;
+    top: 0px;
+    width: 12px;
+    height: 15px;
+    fill: #000000;
+    margin: 0 6px 0 0;
+}
+
+body > a.RatingBadgeWidget {
+    display: block;
+    width: 106px !important; 
+    height: 38px !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.partners .item .address {
+    color: #CF2127;
+    font-size: 17px;
+    font-weight: 400;
+    min-height: 44px;
+}
+
+.partners .item .phone {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 400;
+    color: #000;
+    margin: 15px 0 3px;
+}
+
+.partners .item .phone .phone_alloka {
+    font-size: 17px;
+    font-weight: 400;
+    color: #000;
+}
+
+.partners .item .phone svg {
+    width: 15px;
+    height: 15px;
+    fill: #000000;
+    margin: 0 10px 0 0;
+    position: relative;
+    top: -2px;
+}
+
+.partners .item .clock svg {
+    width: 15px;
+    height: 15px;
+    min-width: 15px;
+    fill: #000000;
+    margin: 3px 10px 0 0;
+}
+
+.partners .item .clock .days {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin: 0 -10px;
+    min-height: 44px;
+}
+
+.route-link {
+    max-width: 139px;
+    width: 100%;
+    max-height: 39px;
+    height: 100%;
+    border-radius: 100px;
+    padding: 7px 9px 7px 10px;
+}
+
+.route-link {
+    background: #cf2121;
+    border-radius: 100px;
+    color: #fff; /*! width: 113px; */ /*! height: 30px; */ /*display: inline-block;*/
+    border: 1px solid #cf2121;
+}
+
+.partners .item .controls .rate a.route-link-more {
+    min-width: 129px;
+    justify-content: center;
+    border-radius: 100px;
+    border: 1px solid #CF2127;
+    box-sizing: border-box;
+    border-radius: 100px;
+    color: #CF2127;
+    padding: 7px 0px;
+}
+
+.partners .item .controls .rate {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+
+.partners .item .controls {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 8px;
+    align-items: start;
+    margin: auto 0 0;
+}
+
+.yandex-rate-block {
+    margin-bottom: 42px;
+}
+
+.partners .item .data {
+    margin: 0 0 38px;
+}
+
+.partners-item__list {
+    padding-right: calc(var(--bs-gutter-x) * .4);
+}
+
+.partners .item .clock .day {
+    color: #969696;
+    margin: 0 5px 0 0;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.rate-inner-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.partners .item .controls .rate a {
+    min-width: 129px;
+    display: flex;
+    align-items: center;
+    padding-top: 8px !important;
+    padding-right: 27px;
+    padding-bottom: 5px !important;
+    padding-left: 13px;
+    font-size: 14px;
+}
+
+.rate-inner-text__route {
+    margin-bottom: 2px;
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.rate-inner-text__route-text {
+    text-align: center;
+    color: #FFF;
+    font-size: 7px;
+    font-weight: 400;
+    line-height: 7px;
+}
+
+.partners .item .controls .rate a:first-child {
+    min-width: 129px;
+    margin-right: 17px;
+}
+
+a.route-call.btn-white {
+    justify-content: center;
+    border-radius: 100px;
+    border: 1px solid #CF2127;
+}
+
+.route-call.btn-white svg {
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+    fill: #cf2127;
+}
+
+.data-inner-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rate-wrapper {
+    display: flex;
+    gap: 10px;
+}
+
+.RatingBadgeWidget {
+    width: 106px !important;
+    height: 38px !important;
+}
