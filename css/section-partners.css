@@ -142,9 +142,9 @@ body > a.RatingBadgeWidget {
     }
 }
 
-@media screen and (max-width: 862px) {
+@media screen and (max-width: 764px) {
     .partners-item__list {
-        width: 33.333%;
+        width: 50%;
     }
 }
 
