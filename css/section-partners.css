@@ -142,6 +142,12 @@ body > a.RatingBadgeWidget {
     }
 }
 
+@media screen and (max-width: 862px) {
+    .partners-item__list {
+        width: 33.333%;
+    }
+}
+
 .partners .item .clock .day {
     color: #969696;
     margin: 0 5px 0 0;
