@@ -144,7 +144,7 @@ body > a.RatingBadgeWidget {
 
 @media screen and (max-width: 764px) {
     .partners-item__list {
-        width: 50%;
+        width: 100%;
     }
 }
 
