@@ -136,6 +136,12 @@ body > a.RatingBadgeWidget {
     padding-right: calc(var(--bs-gutter-x) * .4);
 }
 
+@media screen and (max-width: 1199px) {
+    .partners-item__list {
+        width: 50%;
+    }
+}
+
 .partners .item .clock .day {
     color: #969696;
     margin: 0 5px 0 0;
